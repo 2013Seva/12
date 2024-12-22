@@ -6,5 +6,12 @@ p{
     font-size: 20px;
 }
 .f{
-    font-size: 30;
+    font-size: 30px;
+}
+p img{
+    height: 60px;
+    width: 80px;
+}
+body {
+    font-family: sans-serif;
 }
